@@ -1,0 +1,2 @@
+# Mero
+School management system
